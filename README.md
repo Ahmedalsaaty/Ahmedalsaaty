@@ -40,7 +40,13 @@
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/ahmed-hany-cyber" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin: 10px;" />
+</a>  
+<a href="https://instagram.com/ahmed_alsaaty" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin: 10px;" />
+</a>  
+<a href="https://facebook.com/Ahmed Alsaaty" target="_blank">
+<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin: 10px;" />
 </a>  
 </div>  
 
